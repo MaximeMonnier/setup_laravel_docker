@@ -1,0 +1,1 @@
+continuer le setup de laravel avec keygen et php artisan migration verifier que une bdd est bien cree pour ce projet
