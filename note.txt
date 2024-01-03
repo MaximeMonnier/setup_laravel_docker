@@ -1,1 +1,3 @@
-continuer le setup de laravel avec keygen et php artisan migration verifier que une bdd est bien cree pour ce projet
+j'aimerai a l'avenir cree un fichier docker et que l'application rende les vue avec react
+
+que le deploiement se fasse avec jenkins
