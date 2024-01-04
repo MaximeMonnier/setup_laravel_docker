@@ -16,10 +16,6 @@ return new class extends Migration
             $table->string('name_article', 50);
             $table->longText('content_article');
             $table->string('author_article', 50)->nullable();
-
-            // $table->unsignedBigInteger('category_id')->nullable();
-            // $table->foreign('category_id')->references('id')->on('categories');
-
             $table->timestamps();
         });
     }
